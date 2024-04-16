@@ -1,5 +1,6 @@
 # LP7DPBO2024C2
 Latihan Praktikum 7 DPBO
+Saya Marvel Ravindra Dioputra [2200481] LatPrak7 dalam Mata Kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 Desain Program
   1. App.java: Kelas utama yang membuat frame untuk permainan dan menambahkan panel FlappyBird ke dalamnya.
